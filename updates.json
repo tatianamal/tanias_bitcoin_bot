@@ -1,0 +1,110 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 578345705,
+      "message": {
+        "message_id": 1,
+        "from": {
+          "id": 216052979,
+          "is_bot": false,
+          "first_name": "Tatiana",
+          "last_name": "Malynyak",
+          "language_code": "uk-UA"
+        },
+        "chat": {
+          "id": 216052979,
+          "first_name": "Tatiana",
+          "last_name": "Malynyak",
+          "type": "private"
+        },
+        "date": 1519649793,
+        "text": "/start",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 578345706,
+      "message": {
+        "message_id": 2,
+        "from": {
+          "id": 216052979,
+          "is_bot": false,
+          "first_name": "Tatiana",
+          "last_name": "Malynyak",
+          "language_code": "uk-UA"
+        },
+        "chat": {
+          "id": 216052979,
+          "first_name": "Tatiana",
+          "last_name": "Malynyak",
+          "type": "private"
+        },
+        "date": 1519649795,
+        "text": "/start",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 578345707,
+      "message": {
+        "message_id": 4,
+        "from": {
+          "id": 365750759,
+          "is_bot": false,
+          "first_name": "Anna",
+          "last_name": "Bazyma",
+          "language_code": "uk"
+        },
+        "chat": {
+          "id": 365750759,
+          "first_name": "Anna",
+          "last_name": "Bazyma",
+          "type": "private"
+        },
+        "date": 1519650934,
+        "text": "/start",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 578345708,
+      "message": {
+        "message_id": 6,
+        "from": {
+          "id": 216052979,
+          "is_bot": false,
+          "first_name": "Tatiana",
+          "last_name": "Malynyak",
+          "language_code": "uk-UA"
+        },
+        "chat": {
+          "id": 216052979,
+          "first_name": "Tatiana",
+          "last_name": "Malynyak",
+          "type": "private"
+        },
+        "date": 1519653649,
+        "text": "привіт"
+      }
+    }
+  ]
+}
